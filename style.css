@@ -1,0 +1,10 @@
+body {
+    background-color: #001E43;
+}
+
+.info {
+    width: 350;
+    padding: 20px;
+    border: 10px;
+    margin: 0;
+}
