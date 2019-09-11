@@ -1,13 +1,9 @@
-body {
-    background-color: #001E43;
-}
 
 #info {
-    margin: auto;
     width: 300px;
     height: auto;
     padding: 20px;
-    border: 10px;
+    border: 10px #001E43;
     margin: 0;
     background-color: #FFFFFF;
 }
