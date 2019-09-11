@@ -1,10 +1,8 @@
 #container {
-    color:  #001E43   
+    background-color:  #001E43   
 }
 
 #info {
     margin: auto;
-    padding: 20px;
-    border: 30px;
     background-color: #FFFFFF;
 }
