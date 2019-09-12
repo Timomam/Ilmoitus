@@ -1,7 +1,23 @@
-main {
-    background-color:  #FAFAFA   
+h1 {
+    font-weight:700;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    color: #001E43;
+    }
+
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 21px;
+    color: #001E43;
 }
 
-#info {
-    background-color: #FFFFFF;
+h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 25px;
+    color: #001E43;
+}
+
+#intro {
+        font-size: 24px;
+        color: #001E43;
 }
