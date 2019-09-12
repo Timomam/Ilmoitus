@@ -20,3 +20,43 @@ h3 {
         font-size: 24px;
         color: #001E43;
 }
+
+#info {
+    background-color: #FFFFFF;
+    border: 3%;
+    padding: 5%;
+    margin: 15%;
+    margin-top: 0%;
+    align-items:center;
+}
+
+
+#logo {
+    width: 70%;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    align-items: center;
+}
+
+
+body {
+    background-color: #EEEEEE;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+#developer {
+    margin: auto;
+    width: 100%;
+}
+
+#container {
+    align-items: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
