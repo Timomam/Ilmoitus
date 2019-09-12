@@ -34,7 +34,7 @@ h3 {
 #logo {
     width: 70%;
     margin-bottom: 10%;
-    margin-top: 10%;
+    margin-top: 0%;
     align-items: center;
 }
 
@@ -50,6 +50,7 @@ body {
 #developer {
     margin: auto;
     width: 100%;
+    margin-bottom: 10%;
 }
 
 #container {
