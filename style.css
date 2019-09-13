@@ -83,3 +83,14 @@ button:hover {
     margin-left: 35%;
     margin-right: 35%;
     margin-top: 15%;
+}
+
+@media (min-width: 600px) {
+}
+
+#container {
+    margin: auto;
+    max-width: 1000px;
+  }
+    
+    
